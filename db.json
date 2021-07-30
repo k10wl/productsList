@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://image.made-in-china.com/2f0j00ESytOqskrufm/200-Pages-Copybook-School-Seyes-French-Line-Exercise-Book.jpg",
+      "name": "Copybook",
+      "details": "10 papers in one notebook. Color - blue. Type: box",
+      "count": 20,
+      "size": {
+        "width": 10,
+        "height": 20
+      },
+      "weight": "100",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 1,
+          "description": "Perfect for writing notes",
+          "date": "22.08.2021"
+        },
+        {
+          "id": 2,
+          "productId": 1,
+          "description": "Suits for pens and pencils",
+          "date": "22.08.2021"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://m.media-amazon.com/images/I/711F6-eLS6L._AC_SL1500_.jpg",
+      "name": "Pen",
+      "details": "",
+      "count": 34,
+      "size": {
+        "width": 0.5,
+        "height": 10
+      },
+      "weight": "50",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "imageUrl":
+      "https://biblioteca.dde.pr/wp-content/uploads/2018/08/pencil.png",
+      "name": "Pencil",
+      "details": "",
+      "count": 16,
+      "size": {
+        "width": 0.5,
+        "height": 8
+      },
+      "weight": "30",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "imageUrl":
+      "https://cdn.shopify.com/s/files/1/0883/6332/products/graph_1024x1024.png?v=1511445068",
+      "name": "Notebook",
+      "details": "",
+      "count": 8,
+      "size": {
+        "width": 8,
+        "height": 18
+      },
+      "weight": "150",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "imageUrl":
+      "https://mamaluk.ua/content/images/41/1000x831l80nn0/86560218588959.png",
+      "name": "Rubber",
+      "details": "",
+      "count": 29,
+      "size": {
+        "width": 2,
+        "height": 4
+      },
+      "weight": "50",
+      "comments": []
+    }
+  ],
+  "profile": { "name": "typicode" }
+}
